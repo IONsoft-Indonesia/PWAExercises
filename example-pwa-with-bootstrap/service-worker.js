@@ -1,5 +1,5 @@
 const version = '::v1';
-const cacheName = 'exercise-pwa' + version;
+const cacheName = 'latihan-pwa' + version;
 
 const fileToCache = [
     'index.html'
